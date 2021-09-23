@@ -43,5 +43,4 @@ int main()
         cout << "Number of comparision = " << comparison;
     }
 }
-© 2021 GitHub, Inc.
-Terms
+
